@@ -9,7 +9,7 @@
   * `npm run start` --> Para compilar y ejecutar el programa
 
 * Video explicativo: 
-  * [Vídeo]()
+  * [Vídeo](https://youtu.be/a7-T7ok9a1M)
 
 * Ejemplos de uso: 
   * ![Prueba1](media/Prueba1.png)
