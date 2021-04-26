@@ -1,19 +1,18 @@
-## Integración continua de TypeScript y Node.js mediante GitHub Actions 
+# Pŕactica 8:
+## INTERCAMBIO DE CLAVES DE DIFFIE-HELLMANY CIFRADO DE ELGAMAL
 
-<p align="center">
-    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/blob/master/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci">
-    </a>
-    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/tests.yml">
-        <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/tests.yml/badge.svg">
-    </a>
-    <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci?branch=main'>
-        <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/badge.svg?branch=main' alt='Coverage Status' />
-    </a>
-</p>
+* Objetivo: 
+  * Implementar el algoritmo de intercambio de claves de Diffie-Hellman y el Cifrado de ElGamal.
 
-En este repositorio se aloja un ejemplo sencillo que ilustra integración continua de código fuente escrito en TypeScript y
-ejecutado en Node.js a través del uso de [GitHub Actions](https://docs.github.com/en/actions).
+* Modo compilación: 
+  * `npm install` --> Para instalar todas las dependencias necesarias
+  * `npm run start` --> Para compilar y ejecutar el programa
 
-También se utiliza la [GitHub Action de Coveralls](https://github.com/marketplace/actions/coveralls-github-action)
-para enviar automáticamente, con cada nuevo push, información sobre el cubrimiento de nuestro código fuente a Coveralls.
+* Video explicativo: 
+  * [Vídeo]()
+
+* Ejemplos de uso: 
+  * ![Prueba1](media/Prueba1.png)
+  * ![Prueba2](media/Prueba2.png)
+  * ![Prueba3](media/Prueba3.png)
+

@@ -1,6 +1,8 @@
 {
   "entryPoints": [
-    "./src/basicFunctions.ts"
+    "./src/index.ts",
+    "./src/diffieHellman.ts",
+    "./src/ElGammal.ts"
   ],
   "out": "./docs"
 }
